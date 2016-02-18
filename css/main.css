@@ -1,0 +1,64 @@
+.menu a{
+	font-family: arial;
+	color: 	#808080;
+	text-decoration: none;
+}
+.menu li{
+	position: relative; 
+	display: inline-block;
+	list-style: none;
+	left: 250px;
+	top: -50px;
+}
+.logo img{
+	position: relative;
+   	height: 180px;
+   	width: 180px;
+}
+.header{
+	background-image: url(../img/semilla.jpg);
+	height: 300px;
+	background-position: 0px -300px;
+    }
+.gris{
+	background-color: 	#D3D3D3;
+	height: 150px;
+	margin-top: 300px;
+ }
+.gris p{
+	padding-top: 40px;
+	color: #808080;
+	text-align: center;
+}
+.mision img{
+	padding-top: 80px;
+	padding-left: 120px;
+}
+.mision p{
+	color: #808080;
+	text-align: center;
+}
+.vision img{
+	padding-left: 130px;
+}
+.vision{
+	position: absolute;
+	left: 550px;
+	padding-top: 80px;
+}
+.vision p{
+	text-align: center;
+	color: #808080;
+}
+.metodo{
+	height: 350px;
+	width: 100%;
+}
+.fondo{
+	width: 87%;
+}
+.fondo2 {
+	position: relative;
+	margin-bottom: 100px;
+
+}
